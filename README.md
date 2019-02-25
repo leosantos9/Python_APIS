@@ -1,6 +1,8 @@
 
-### PLEASE GO TO STARTER CODE FOLDER FOR DETAILS
+_____________________________
 
+### PLEASE GO TO STARTER CODE FOLDER FOR DETAILS
+______________________________
 
 # Unit 6 | Assignment - What's the Weather Like?
 
