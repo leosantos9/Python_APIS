@@ -1,7 +1,7 @@
 
 _____________________________
 
-### PLEASE GO TO STARTER CODE FOLDER FOR DETAILS
+### PLEASE GO TO STARTER_CODE FOLDER FOR HOMEWORK
 ______________________________
 
 # Unit 6 | Assignment - What's the Weather Like?
